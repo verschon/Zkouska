@@ -1,0 +1,40 @@
+Sociologická data - https://archiv.soc.cas.cz/
+Otevřená data ČR - https://data.gov.cz/
+OpenData.cz - https://linked.opendata.cz/dataset
+Evropská Unie - https://data.europa.eu/euodp/cs/home
+The World Bank - https://datacatalog.worldbank.org/
+Global Open Data Index - https://index.okfn.org/dataset/
+
+
+Svět
+https://www.kaggle.com/
+https://data.world/
+http://data.un.org/
+http://download.geofabrik.de/
+https://www.gapminder.org/data/
+
+CZ
+https://www.hlidacstatu.cz/
+https://www.czso.cz/
+https://www.mapakriminality.cz/data/
+http://www.ioda.cz/ - dopravni rozcestnik
+
+Přednáška Open Data
+opendata.mfcr.cz - záložka katalog datových sad nebo API
+opendata.praha.eu
+www.info.mfcr.cz/ares - IČO lze jen vyhledávat, dá se scrapovat přes script v Pythonu
+red.financnisprava.cz/open-data nebo registr dotací
+monitor.statnipokladna.cz - analytická čast, datový katalog
+smlouvy.gov.cz - registr smluv - podrobné vyhledávání (podle IČO třeba),časté dotazy - otevřená data
+golemio API - Praha
+data.brno.cz
+data.europa.eu
+
+data.gov.cz/datové-sady - otevřená data ČR SKORO VŠECH!! portál otevřených dat
+data.brno.cz
+
+
+
+
+
+https://www.coi.cz/pro-spotrebitele/otevrena-data/
