@@ -1,3 +1,6 @@
+
+Open data pro projekty
+
 Sociologická data - https://archiv.soc.cas.cz/
 Otevřená data ČR - https://data.gov.cz/
 OpenData.cz - https://linked.opendata.cz/dataset
